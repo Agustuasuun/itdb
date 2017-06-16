@@ -1,0 +1,390 @@
+0:black, 255:white#0:hitam, 255:putih
+About#Tentang
+Accounting#Akuntansi
+Add Agent#Tambah Agen
+Add Contract#Tambah Kontrak
+Add File#Tambah File
+Add hierarchical or sibling relations to: parts, cards, monitors, et.c.#Menambahkan hubungan hirarkis atau kategori ke: part, card, monitor, dsb.
+Add Invoice#Tambah Faktur
+Add new Agent#Tambah Agen baru
+Add new Contract#Tambah Kontrak baru
+Add new File#Tambah File baru
+Add new Invoice#Tambah Faktur baru
+Add new item#Tambah  Barang baru
+Add new Item#Tambah  Barang baru
+Add New Item#Tambah  Barang
+Add new Location#Tambah Lokasi baru
+Add new software#Tambah  software baru
+Add new Software#Tambah Software baru
+Address, Phone number, other info, etc#Alamat, Nomor telepon, info lainnya, dll
+Add Row#Tambah Baris
+Add Software#Tambah Software
+Add/View#Tambah/Lihat
+Add#Tambah
+Agent Properties#Agen Detil
+Agents#Agen
+Area Names/Offices#Nama Area/Kantor
+Area/Room#Area/Ruangan
+Areas: rooms, offices#Area: Ruang, kantor
+Are you sure you want to delete this row ?#Apakah Anda yakin ingin menghapus baris ini?
+Associated Files#File Terasosiasi
+Associated Items#Produk Terkait
+Associated Software#Software Terkait
+Associated#Terasosiasi
+Associate#Asosiasi
+Associations (items/racks)#Asosiasi (barang/rak)
+Associations Overview#Ikhtisar Asosiasi
+Associations#Asosiasi
+Blank passwords prohibit login#Password kosong dilarang masuk
+Border Color (0-255)#Border Color (0-255)
+Bottom Margin#Margin Bawah
+<br><br>In the PDF printing dialog, <br>set <b>'Page Scaling'</b> to <b>'None'</b>, <br>and <b>uncheck</b> 'auto-rotasi & center'</b>#"<br> Dalam dialog cetak PDF, <br> mengatur <b> 'Ukuran Halaman' </ b> <b> 'None' </ b>, <br> dan <b> uncheck </ b > 'auto-rotate & amp; pusat '</ b>"
+Browse Data#Browse Data
+Browse#Browse
+Building Name#Nama Bangunan
+Buyer#Pembeli
+Cannot add log entries to unsaved items.#Tidak dapat menambahkan entri log ke barang yang belum disimpan.
+Changes are saved immediately.<br>Removing tags removes associations not Tags. Use the Tags menu for that.#Perubahan akan disimpan. <br> Menghapus tag menghilangkan asosiasi tanpa Tags. Gunakan menu Tags untuk itu.
+Click on Item count column on the left to display associated items#Klik pada kolom hitungan Barang di sebelah kiri untuk menampilkan barang terkait
+Click on Software count column on the left to display associated software#Klik pada Software kolom count di sebelah kiri untuk menampilkan Software yang berhubungan
+Click 'Show Labels'#Klik 'Tampilkan Label'
+Cntrl+Click to select multiple roles for an agent <br><br><u>Vendor & Buyer</u>: will be listed in invoices & Contracts <br><br><u>H/W Manuf.</u>: will be listed in items editing <br><br><u>S/W Manuf.</u>: will be listed in software editing <br><br><u>Con#Cntrl + Klik untuk memilih beberapa peran untuk agen <br> <u> Penjual & amp; Pembeli </ u>: akan tercantum dalam faktur & amp; Kontrak <br> <u> H / W Manuf </ u>:. Akan tercantum dalam Barang mengedit <br> <u> S / W Manuf </ u>:. Akan terdaftar dalam Soft
+Cntrl+Click to select multiple roles for an agent#Cntrl + Klik untuk memilih beberapa jabatan untuk agen
+Columns#Kolom
+Comments#Komentar
+Configure contract types#Konfigurasi Tipe kontrak
+Configure Item Types#Konfigurasi Tipe Barang
+Configure Status Types#Konfigurasi Tipe Status
+Contact Info#Info Kontak
+Contacts#Kontak
+Contact#Kontak
+Contract Associations#Asosiasi Kontrak
+Contract Data#Data Kontrak
+Contract Description#Deskripsi Kontrak
+Contract number is missing#Nomor kontrak hilang
+Contractor is missing#Kontraktor hilang
+Contractor#Kontraktor
+Contract Properties#Kontrak Detil
+CONTRACTS#KONTRAK
+Contracts#Kontrak
+Contract Title is missing#Kontrak Label hilang
+Contract Type is missing#Tipe Kontrak hilang
+Contract Types#Tipe Kontrak
+Contr. Types#Tipe Kontr.
+Cores/CPU#Cores/CPU
+Cores per CPU (used for licensing)#Core per CPU (digunakan untuk lisensi)
+CPU Model#Model CPU
+Current End Date of contract is missing#Saat ini Tanggal Akhir Kontrak hilang
+Current EndDate#Saat ini End Date
+Data Browser#Data Browser
+Date Entered#Tanggal Pemasukan
+Date of Purchase#Tanggal Pembelian
+Date of purhcase is missing#Tanggal Order hilang
+Date#Tanggal
+Delete Event?#Hapus Event?
+Delete#Hapus
+Depth of rack occupation. (F)ront, (M)iddle, (B)ack#Daya tampung rak. (F) ront, (M) iddle, (B) ack
+Depth#Daya Tampung
+describe the purpose of this item#Deskripsi Fungsi Barang ini
+Description#Deskripsi
+DNS#DNS
+DnsName#DnsName
+DNS Name#Nama DNS
+DnsName#DnsName
+Documents, Manuals, Offers, Licenses, ...#Dokumen, Manual, Penawaran, Lisensi, ...
+Download a complete installation backup (much larger)#Donlot backup instalasi lengkap (terlalu besar)
+Download & print the resulting PDF#Donlot & mencetak ke PDF
+Download DataBase file. Contains all data except uploaded files/documents#Donlot file DataBase. Berisi semua data kecuali file upload / dokumen
+Download#Donlot
+Do you really want to remove this row?#Apakah Anda benar-benar ingin menghapus baris ini?
+Edit Contract Types#Edit Tipe Kontrak
+Edit ID#Editt ID
+Edit Item Types#Edit Tipe Barang
+Edit Software#Edit Software
+Edit Status Types#Edit Tipe Status
+edit tags#Edit tags
+Edit Tags#Edit Tags
+Edit#Edit
+Effective date#Tanggal berlaku
+e.g. like donator, etc. Vendor info is best to be provided in the related invoice#misalnya seperti donatur, dll vendor info jelas yang akan diberikan dalam faktur terkait
+Email#E-mail
+End Date#Tanggal akhir
+End Date after#Setelah Tanggal berakhir
+End Date before#Sebelum Tanggal berakhir
+End#Akhir
+Entered By#Masuk By
+enter text to filter listed items#Masukan teks filter barang yang
+Event End#Event Stop
+Event History#Sejarah Event
+Event Start#Event start
+File Maintenance#Pemeliharaan File
+Filename#Nama file
+Files#File
+File title is missing#Label file yang hilang
+File Type is missing#File Type hilang
+File#File
+Filter#Filter
+Find#Cari
+Floor Plan#Denah Lantai
+Floor#Lantai
+FontSize#Ukuran huruf
+Full Access#Akses Penuh
+Function#Fungsi
+GO#Lanjut
+Hardware#Hardware
+HDs (TB)#HDS (TB)
+Header FontSize#Header fontsize
+Header (from conf.php)#Header (dari conf.php)
+Height#Tinggi
+Home#Beranda
+Horz. Pitch#Horz. Picth
+How is this item used. e.g.: Video Encoder#Barang ini digunakan sebagai. misalnya: Video Encoder
+how many items are assigned to this rack#berapa banyak barang yang masukan ke rak ini
+H/W & S/W Manufacturers & Vendors, Buyers, Contractors#H/W & S/W Manufacturers & Vendors, Buyers, Contractors
+H/W Manufacturer#H/W Produsen
+[id desc]#[Id desc]
+ID FontSize#ID fontsize
+[id]#[id]
+ID#ID
+Installed Into#Diinstal ke
+Installed on#Diinstal pada
+Installed#Terinstall
+Inter-Item Associations#Asosiasi Inter-Barang
+Intrinsic Properties#Internal Detil
+Invoice Associations#Asosiasi Faktur
+Invoice  Data#Data Faktur
+Invoice Description / File(s)#Deskripsi Faktur / File (s)
+Invoice Properties#Faktur Detil
+Invoices (buyers)#Faktur (pembeli)
+INVOICES (buyer)#FAKTUR (pembeli)
+Invoices (vendors)#Faktur (vendor)
+INVOICES (vendor)#FAKTUR (vendor)
+INVOICES#FAKTUR
+Invoices#Faktur
+Invoice#Faktur
+IPv4#IPv4
+IPv6#IPv6
+Is Part#Sebagai Part
+Issue Date#Tanggal Pembuatan
+Item Associations#Asosiasi Barang
+Item Data#Data Barang
+Item list per location#Daftar Barang per lokasi
+Items without invoices#Barang tanpa faktur
+Items without location#Barang tanpa lokasi
+Items with warranty end date close to (before or after) today#Barang dengan tanggal garansi akhir dekat (sebelum atau sesudah) hari ini
+ITEMS#Barang
+items#Barang
+Items#Barang
+Items#Barang
+Item Types#Tipe barang
+Item Type#Tipe barang
+Label properties#Label Detil
+Labels#Label
+labels#label
+Label#Label
+Left Margin#Margin Kiri
+Licencing Info#Info Lisensi
+License Info#Info Lisensi
+List Invoices#Daftar Faktur
+List items with defined IPv4 numbers#Daftar Barang dengan nomor IPv4
+List Items#Daftar Barang
+List Software#Daftar Software
+Loading data from server#Memuat data dari server
+Location Name/Building Name#Lokasi Nama / Nama Gedung
+Location Properties#Lokasi Detil
+Locations#Lokasi
+Location#Lokasi
+Log/Journal#Log / Journal
+Logout#Keluar
+MACs#MACs
+maintenance end date#tanggal pemeliharaan akhir
+Maintenance Instructions#Intruksi Pemeliharaan
+Maint. End#Maint. Akhir
+Manage Agents#Manajemen Agen
+Manage item locations#Manajemen Lokasi barang
+Manage various parameters#Manajemen Berbagai parameter
+Manage your contracts <br> Support, Licenses, Leases, etc#Manajemen Kontrak <br> Dukungan, Lisensi, Sewa, dll
+Manage your H/W items <br> PCs, Switches, Phones, etc#Manajemen Hardware,<br> PC, Switches, Printer, dll
+Manage your Invoices#Manajemen Faktur
+Manage your software#Manajemen Software
+Manufacturer is missing#Produsen hilang
+Manufacturer#Pabrik
+[model]#[model]
+Model#Model
+Name#Nama
+Network Ports#Ports jaringan
+Network#Jaringan
+New#Baru
+Notes#Catatan
+No#Tidak
+Numbering#Penomoran
+Number of cores per CPU (used for licensing)#Jumlah core per CPU (digunakan untuk lisensi)
+Number of installed Software per Manufacturer (Agent)#Jumlah Software yang diinstal per Produsen (Agen)
+Number of invoices per Vendor (Agent)#Jumlah Faktur per Penjual (Agen)
+Number of items per Location#Jumlah Barang per Lokasi
+Number of items per Manufacturer (Agent)#Jumlah Barang per Produsen (Agen)
+Number of Items under support#Jumlah Barang bawah dukungan
+Number#Jumlah
+Occupation#Catatan
+Order By#Di order oleh
+Order No#Nomor Order
+Order No#Nomor Order
+Order Num#No Order
+order: status, id descending, item type, manufacturer#order: status, id turun, tipe barang, pabrik
+order: status, id, item type, manufacturer#order: status, id, tipe barang, pabrik
+order: status, item type, manufacturer,id#order: status, tipe barang, pabrik, id
+order: status, model, item type, manufacturer#order: Status, model, tipe barang, pabrik
+Other Info#Info lain
+Parent ID#ID Induk
+Parent#Induk
+Password#Password
+Patch Panel Port#Patch Panel Port
+Phone numbers#Nomor telepon
+Please check if this item can be rackmounted#Silakan periksa apakah barang ini dapat rackmounted
+Please select item type#Silakan pilih tipe Barang
+Please specify if this item is a part of another#Silakan tentukan apakah Barang ini adalah bagian dari yang lain
+Populated from H/W Manufacturers defined in agents menu#Penanda dari H/W Pabrik didefinisikan dalam menu agen
+populated from items of type switch or router#Pananda dari Barang tipe switch atau router
+Populate list from the Item Types menu#Daftar isi dari menu Tipe Barang
+Preset Name#Nama Setelan
+Presets#Setelan
+Print Labels#Cetak Label
+Property#Detil
+Ptch.PnlPrt#Ptch.PnlPrt
+Purchace Price (#Harga Order(
+Purchase Date#Tanggal Pembelian
+PurchaseDate#Tanggal Pembelian
+PurchPrice#HargPsan
+QTY#QTY
+Quantity#Quantity
+Rackmountable#Rackmountable
+Rack Pos. (topmost)#Rak Pos. (paling atas)
+Racks#Rak
+Rack#Rak
+RAM (GB)#RAM (GB)
+Read Only#Read Only
+Recent History#Sejarah terbaru
+Related#Terkait
+Rel#Rem
+RemAdmIP#RemAdmIP
+Remote Administration IP#IP Remote Administration
+Renewals#Perpanjangan
+Reports#Laporan
+Right Margin#Margin kanan
+Role#Jabatan
+Rows#Baris
+Save Invoice#Simpan Faktur
+Save new location first to define areas onto it#Menyimpan lokasi baru pertama untuk menentukan daerah ke atasnya
+Save Preset#Simpan Setelan
+Save#Simpan
+Select & Print#Pilih & Cetak
+select and print labels for your items#Pilih dan mencetak label untuk Barang
+Select Cores/CPU#Pilih Cores/CPU
+Select items from the list above#Pilih Barang dari daftar di atas
+Select Items#Pilih Barang
+Select Label properties (manual or preset)#Pilih Label Detil (manual atau setelan)
+Select Report#Pilih Laporan
+Select systems where this software is currently installed. Only items with 'software support' in their item type are shown.#Pilih sistem di mana software ini saat ini diinstal. Hanya Barang dengan 'Software support' di tipe Barang  akan ditampilkan.
+Select User#Pilih User
+Select 'YES' if software can be installed <b>on</b> this item.<br> Only items supporting software are listed when <br>performing software - item associations#Pilih 'YA' jika Software dapat diinstal <b> di </ b> Barang ini <br> Hanya Barang software pendukung tercantum ketika <br> melakukan software -. Asosiasi Barang
+Select#Pilih
+Settings#Pengaturan
+Shop/Origin#Toko/Asal
+show also this text on printable labels#menunjukkan juga teks ini pada label dicetak
+Show Labels#Tampilkan Label
+Sibling#Kategori Identik
+Size (U)#Ukuran (U)
+Skip#Lewati
+S/N 2#S/N 2
+S/N#S/N
+Software Associations#Asosiasi Software
+Software Data#Data Software
+Software title is missing#Label Software hilang
+Software Version is missing#Software Versi hilang
+SOFTWARE#Software
+Software#Software
+Special maintenance instructions#Petunjuk perawatan khusus
+Specify model#Tentukan model
+Specify user responsible for this item#Tentukan pengguna bertanggung jawab untuk barang ini
+Start Date of contract is missing#Tanggal start kontrak hilang
+Start Date#Tanggal Start
+Start#Start
+Status Types#Tipe Status
+Status#Status
+suggested resolution: 1024 pixels for A4 scans#Resolusi yang disarankan: 1024 piksel untuk scan A4
+Support and Maintanance, Leases, ...#Dukungan dan Maintanance, Sewa, ...
+Supports<br>Software#Support Software
+Switch Port#Switch Port
+Switch#Switch
+S/W Manufacturer is missing#S/W Pabrik hilang
+S/W Manufacturer#S/W Pabrik
+Tags#Tags
+TAG#TAG
+taken from related invoice#diambil dari faktur terkait
+Text Padding#Teks Padding
+Title/Ver.#Label / Ver.
+Title#Label
+Top Margin#Margin Atas
+Total Cost#Total Biaya
+Tree Explorer#Root Explorer
+Type Names#Nama Tipe
+Type(s)#Tipe (s)
+[type]#[tipe]
+Type#Tipe
+Upload a File#Upload File
+Upload a Floor Plan#Unggah Rencana Lantai
+Uploaded by#Diunggah oleh
+Upload Files#Unggah File
+Usage#Pemakaian
+User Description#Deskripsi Pengguna
+Username#Nama pengguna
+User responsible for this item#Pengguna bertanggung jawab untuk Barang ini
+Users are used for both web login and as item assignees#Pengguna digunakan untuk kedua web login dan sebagai assignees barang
+Users, Tags#Pengguna, Tag
+Users#Pengguna
+User#Pengguna
+use when the top labels have already been printed#digunakan saat label atas sudah dicetak
+Value#Nilai
+Vendors/Buyers/ Manufacturers#Vendor/Pembeli/Pabrik
+Vendor#Vendor
+Version#Versi
+Vert. Pitch#Rinci. Nada
+View/Edit Subtypes#Lihat/Edit Subtipe
+View items by type, by user, by agent#Lihat Barang by tipe, by pengguna, by agen
+View Reports#Lihat Laporan
+View#Lihat
+Warranty Info#Info Garansi
+Warranty Months#Bulan Garansi
+Warranty#Garansi
+Warr. Rem. days#Gar. Rem. hari
+Width#Lebar
+Yes#Iya
+You forgot to select the file?#Anda lupa untuk memilih file?
+Clone#Klon
+Warning#Peringatan
+<b>status</b> of this item  different from status of associated item#<B> status </ b> dari Barang ini berbeda dari status barang terkait
+<b>location</b> of this item  different from location of associated item#<B> lokasi </ b> dari Barang ini berbeda dari lokasi barang terkait
+<b>user</b> of this item  different from user of associated item#<B> pengguna </ b> dari Barang ini berbeda dari pengguna Barang terkait
+No racks in location#Tidak ada rak di lokasi
+No areas defined#Tidak ada daerah yang sudah ditentukan
+Barcode Size#Ukuran Barcode
+<br>In the PDF printing dialog,#Situs Dalam dialog cetak PDF ,
+<b>uncheck</b> 'auto-rotate & center'</b>#<B> uncek </ b> 'oto-rotasi & tengah '</ b>
+Click 'Make Item Labels'#Klik 'Membuat Label Barang'
+Company Title#Label Perusahaan
+Currency#Mata uang
+Date Format#Format Tanggal
+Header#Header
+Header Image#Header Image
+Header Text#Header Text
+Image Size (WxH)#Ukuran Gambar (WxH)
+Interface Language#Antarmuka Bahasa
+ITDB Settings#Pengaturan ITDB
+Language#Bahasa
+Paper Size#Ukuran Kertas
+QR Barcode#QR Barcode
+Save#Simpan
+set <b>'Page Scaling'</b> to <b>'None'</b>#set <b> 'Ukuran Halaman' </ b> <b> 'None' </ b>
+Settings#Pengaturan
+Translations#Terjemahan
+Users, Tags, Dates, Currency,...#Pengguna, Tag, Tanggal, Mata Uang, ...
